@@ -19,3 +19,9 @@ description_short: This plugin does something
 description: |-
     This plugin is useful for doing something in a k3d cluster
 ```
+
+### Usage
+#### Installation
+```bash
+k3d plugin install iwilltry42/k3d-test-plugin
+```
