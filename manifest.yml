@@ -1,0 +1,10 @@
+# The name of the plugin
+# This is used when listing plugins, executing them via a lifecyle hook or directly from CLI
+name: test-plugin
+# Specify a version for the plugin
+version: v0.0.2
+# A short description for the plugin
+description_short: Plugin example
+# A detailed description
+description: |-
+    This plugin is used for testing the plugin system in k3d.
